@@ -12,7 +12,7 @@ Installing the Project:
 2. Create a file settings.json since settings.template and change de parameters.
 
 3. Install requirements from base.txt file.
-# pip install -r requirements base.txt
+ pip install -r requirements base.txt
 
 4. Execute migrate command.
 
