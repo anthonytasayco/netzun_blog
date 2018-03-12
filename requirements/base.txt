@@ -1,0 +1,8 @@
+Django==1.11
+django-ckeditor==5.4.0
+django-extensions==2.0.0
+psycopg2==2.7.4
+django-uuslug==1.1.8
+Pillow
+djangorestframework==3.6.3
+Unipath==1.1
